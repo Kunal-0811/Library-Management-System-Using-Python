@@ -1,0 +1,5 @@
+- Developed a Library Management System in Python, comprising three main classes: Book, User & Library.
+- The Book class facilitated operations such as checking availability, borrowing, and returning books.
+- The User class stored user information including names, while the library class provided functionalities to add, remove & display books in the library catalog.
+- This project streamlined library operations, improving book management and user interaction.
+- This system works easily and reduces paperwork, easy to handle large amounts of library data.
